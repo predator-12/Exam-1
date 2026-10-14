@@ -4,5 +4,5 @@
 }
 .hero-banner {
 	min-height: calc(100vh - 72px);
-	background: linear-gradient(90deg, rgba(12, 31, 28, 0.76), rgba(12, 31, 28, 0.16)), url("https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=2400") center / cover no-repeat;
+	background: linear-gradient(90deg, rgba(12, 31, 28, 0.76), rgba(12, 31, 28, 0.16)), url("https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=2400") center ;
 }
